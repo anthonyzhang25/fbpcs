@@ -5,10 +5,13 @@ Install docker and Java
 1. Install docker here: https://www.docker.com/products/docker-desktop
 2. Install Java, and make sure using Java 11.
   1. go to: https://java.com/en/download/help/download_options.html and following the installation instruction there. Or Use Homebrew. Run the following command:
-         brew install java11 `or` brew cask install java11
+  
+      brew install java11 `or` brew cask install java11
   2. run the following command :
-         java -version
+  
+      java -version
     you should see the similar messages as follow:
+    
          openjdk version "11.0.12" 2021-07-20
          OpenJDK Runtime Environment Homebrew (build 11.0.12+0)
          OpenJDK 64-Bit Server VM Homebrew (build 11.0.12+0, mixed mode)
